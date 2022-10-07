@@ -9,3 +9,8 @@ The data flow structure is as folllows
 
 ![image](https://user-images.githubusercontent.com/102721829/194456065-c05ce404-3e45-4092-9ace-24e2bfc112fb.png)
 
+The below image shows the data flow on the Azure Logic App
+
+![image](https://user-images.githubusercontent.com/102721829/194456437-233e89e0-1a74-417b-87bd-c7b032bcfae6.png)
+
+Finally the data is fetched on the data-visualization tool to track the sentiment of the newly launched iphone 14 series.
